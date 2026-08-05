@@ -71,13 +71,6 @@ Shopper-Spectrum/
 ├── requirements.txt
 ├── README.md
 ```
-
----
-
-## 📊 Screenshots
-
-> *(Optional: Add UI screenshots from your app here)*
-
 ---
 
 ## 🙋‍♀️ Team
@@ -87,8 +80,4 @@ Shopper-Spectrum/
 
 ---
 
-## 📬 Contact
 
-For queries or collaboration:  
-📧 Email: your-email@example.com  
-🌐 LinkedIn: [your-linkedin-profile](https://www.linkedin.com)
